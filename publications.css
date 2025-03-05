@@ -1,0 +1,66 @@
+/*CSS DOCUMENT*/
+/*
+
+amarillo: rgb(216, 187, 22)
+negro: rgb(0, 0, 0)
+blanco: #f0f0f0
+*/
+
+/*GENERALES*/
+
+body{
+    background-color:rgb(216, 187, 22);
+    margin: 0;
+
+}
+h2 {
+  
+  background-color: black;
+  color:rgb(253, 221, 36);
+  padding: 2%;
+  margin: 0;
+}
+p {
+    color:black;
+    background-color: white;
+    padding: 2%;
+    margin: 0;
+}
+/*IDENTIFICADORES GENERALES*/
+#psiev {
+    background-color:rgb(0, 0, 0);
+    color: rgb(253, 221, 36);
+    padding: 10px;
+    margin:0;
+}
+#top {
+    background-color:white;
+    color:rgb(0, 0, 0);
+    padding: 1px;
+    text-align: center;
+    font-weight: 900;
+    font-size: large;
+}
+#menu {
+    text-align: center;
+    font-family:Verdana, "Geneva", Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: xx-large;
+}
+#top li {
+    display:inline;
+}
+#menu li {
+    display:inline;
+}
+/*IDENTIFICADORES ESPECIFICOS*/
+
+
+
+
+
+
+/*CLASES*/
+
+
+/* REGLAS ANIDADAS*/
